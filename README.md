@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @17pran
-- 👀 I’m interested in coding and developing apps
-- 🌱 I’m currently learning python and java
+- 👀 I’m interested in web developing
+- 🌱 I’m currently learning frontend and backend
 - 📫 How to reach me ghub
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: :(
